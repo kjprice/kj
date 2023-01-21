@@ -9,6 +9,7 @@
  - [ ] How to break out sections, in json? So that h1 -> contains all items underneath
  - [ ] Enable javascript - see what ajax calls are made
  - [ ] Display Percent that contnet has been scraped
+ - [ ] Store list of links
 
 ### Wikipedia 
 
