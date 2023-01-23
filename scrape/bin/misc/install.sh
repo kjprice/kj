@@ -1,6 +1,10 @@
 cd "$(dirname "$0")"
 
-conda create -y -n scrape python=3.9
+cd ../..
+
+# conda create -y -n scrape python=3.9
+
+source ~/.bashrc
 
 nvm install v19.4.0
 
